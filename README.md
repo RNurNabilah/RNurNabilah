@@ -2,7 +2,7 @@
 
 Welcome to my repositories of projects where I learnt from Besquare Program!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNurNabilah&layout=compact&hide=objective-c,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNurNabilah&layout=compact&hide=objective-c,swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
