@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my repositories of projects
+Welcome to my repositories of projects where I learnt from Besquare Program!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RNurNabilah)](https://github.com/anuraghazra/github-readme-stats)
 
